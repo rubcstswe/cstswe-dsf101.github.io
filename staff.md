@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tutors
-description: A listing of all the course Tutors.
+description: A listing of all the module tutors.
 ---
 
 
