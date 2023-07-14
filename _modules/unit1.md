@@ -3,7 +3,7 @@ title:  UNIT I Introduction to Algorithms and Computational Thinking
 ---
 
 ### Week 1
----
+
 
 Lecture 1 
 : [Overview of Algorithms; Algorithm Analysis and Design Principles](#)
@@ -15,7 +15,7 @@ Lecture 2
 
 
 ### Week 2
----
+
 
 Lecture 3 
 : [Computational Models; Optimization Models, Simulation Models and Statistical Models](#)
