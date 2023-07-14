@@ -2,8 +2,8 @@
 title: UNIT VI  Introduction to Machine Learning
 ---
 
-Week 13
----
+### Week 13
+
 
 Lecture 27
 : [Fundamentals of Machine Learning; Concepts, principles and goals](#)
@@ -13,15 +13,15 @@ Lecture 28
 : [Machine Learning Methods ; Supervised, unsupervised, semi-supervised and reinforcement learning](#)
   : [Slides](#){: .label .label-red }
   
-Week 14
----
+### Week 14
+
 
 Lecture 29
 : [Regression, Classification & Clustering](#)
   : [Slides](#){: .label .label-red }
   
-Week 15
----
+### Week 15
+
 
 Lecture 30
 : [Ethical Considerations](#)
