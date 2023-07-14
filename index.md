@@ -44,8 +44,3 @@ Contact Hours : 45 hours
 Practical Assignments : 3 Nos.
 <br>
 Independent Study : 15 hours
-
-
-
-
-
