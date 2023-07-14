@@ -2,8 +2,8 @@
 title: UNIT V  Data Cleaning & Visualization using Pandas
 ---
 
-Week 11
----
+### Week 11
+
 
 Lecture 22
 : [Basic Operations in Pandas](#)
@@ -17,8 +17,8 @@ Lecture 24
 : [Scaling & Normalization](#)
   : [Slides](#){: .label .label-red }
 
-Week 12
----
+### Week 12
+
 
 Lecture 25
 : [Parsing Dates & Character Encodings](#)
