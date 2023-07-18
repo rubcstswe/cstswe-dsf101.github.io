@@ -16,7 +16,7 @@ description: >-
 
 ---
 
-##Introduction to Computational Thinking and Data Science
+#Introduction to Computational Thinking and Data Science
 This GitHub repository serves as a comprehensive resource for the module content of "Introduction to Computational Thinking and Data Science." Whether you are a beginner or an experienced individual interested in the fundamentals of computational thinking and data science, this repository will provide you with a structured curriculum and valuable learning materials.
 
 
