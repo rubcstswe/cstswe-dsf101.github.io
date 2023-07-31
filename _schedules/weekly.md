@@ -32,7 +32,7 @@ schedule:
     events:
       - name: Practical
         start: 15:30 PM
-        end: 17:30 AM
+        end: 17:30 PM
         location: Lab 1
 
 ---
