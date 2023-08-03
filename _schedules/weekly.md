@@ -29,7 +29,7 @@ schedule:
         end: 11:00 AM
         location: Lab 1
   - name: Friday
-        events:
+    events:
       - name: Lecture
         start: 3:30 PM
         end: 5:30 PM
