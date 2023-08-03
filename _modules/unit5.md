@@ -28,13 +28,13 @@ Lecture 26
 : [Inconsistent Data Entries, Line charts, Bar charts, Heatmaps and scatter plots and Distributions](#)
   : [Slides](#){: .label .label-red }
 
-### Week 8
+### Week 9
 
-Lecture 26
+Lecture 27
 : [Line charts, Bar charts, Heatmaps and scatter plots ](#)
   : [Slides](#){: .label .label-red }
 
-Lecture 27
+Lecture 28
 : [Distributions ](#)
   : [Slides](#){: .label .label-red }
 
