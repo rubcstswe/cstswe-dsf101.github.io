@@ -2,7 +2,7 @@
 title: UNIT V  Data Cleaning & Visualization using Pandas
 ---
 
-### Week 11
+### Week 6
 
 
 Lecture 22
@@ -17,7 +17,7 @@ Lecture 24
 : [Scaling & Normalization](#)
   : [Slides](#){: .label .label-red }
 
-### Week 12
+### Week 7
 
 
 Lecture 25
@@ -28,4 +28,13 @@ Lecture 26
 : [Inconsistent Data Entries, Line charts, Bar charts, Heatmaps and scatter plots and Distributions](#)
   : [Slides](#){: .label .label-red }
 
+Lecture 26
+: [Line charts, Bar charts, Heatmaps and scatter plots ](#)
+  : [Slides](#){: .label .label-red }
+
+Lecture 27
+: [Distributions ](#)
+  : [Slides](#){: .label .label-red }
+
   
+
