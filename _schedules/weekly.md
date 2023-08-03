@@ -8,16 +8,16 @@ timeline:
   - '11:30 AM'
   - '12:00 PM'
   - '12:30 PM'
-  - '13:00 PM'
-  - '13:30 PM'
-  - '14:00 PM'
-  - '14:30 PM'
-  - '15:00 PM'
-  - '15:30 PM'
-  - '16:00 PM'
-  - '16:30 PM'
-  - '17:00 PM'
-  - '17:30 PM'
+  - '1:00 PM'
+  - '1:30 PM'
+  - '2:00 PM'
+  - '2:30 PM'
+  - '3:00 PM'
+  - '3:30 PM'
+  - '4:00 PM'
+  - '4:30 PM'
+  - '5:00 PM'
+  - '5:30 PM'
 schedule:
   - name: Monday
   - name: Tuesday
@@ -29,10 +29,9 @@ schedule:
         end: 11:00 AM
         location: Lab 1
   - name: Friday
-    events:
-      - name: Practical
-        start: 15:30 PM
-        end: 17:30 PM
+        events:
+      - name: Lecture
+        start: 3:30 PM
+        end: 5:30 PM
         location: Lab 1
-
 ---
