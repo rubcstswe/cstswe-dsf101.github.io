@@ -7,7 +7,8 @@ title:  UNIT I Introduction to Algorithms and Computational Thinking
 
 Lecture 1 
   : [Overview of Algorithms; Algorithm Analysis and Design Principles](#)
-    : [Slides](#){: .label .label-red }
+    : [Slides]([Session 1.pdf](https://github.com/rubcstswe/cstswe-dsf101.github.io/files/12245777/Session.1.pdf)
+){: .label .label-red }
   
 Lecture 2
   : [RAM model of computation and asymptotic](#)
