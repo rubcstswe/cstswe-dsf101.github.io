@@ -2,28 +2,30 @@
 title: UNIT VI  Introduction to Machine Learning
 ---
 
-### Week 13
+### Week 10
 
 
 Lecture 27
 : [Fundamentals of Machine Learning; Concepts, principles and goals](#)
   : [Slides](#){: .label .label-red }
-  
+
+### Week 11
+
 Lecture 28
 : [Machine Learning Methods ; Supervised, unsupervised, semi-supervised and reinforcement learning](#)
   : [Slides](#){: .label .label-red }
   
-### Week 14
+### Week 12
 
 
 Lecture 29
-: [Regression, Classification & Clustering](#)
+: [Regression and Classification](#)
   : [Slides](#){: .label .label-red }
   
-### Week 15
+### Week 13
 
 
 Lecture 30
-: [Ethical Considerations](#)
+: [Clustering and Ethical Considerations](#)
   : [Slides](#){: .label .label-red }
   
