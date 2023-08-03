@@ -13,10 +13,6 @@ Lecture 2
   : [RAM model of computation and asymptotic](#)
     : [Slides](#){: .label .label-red }
 
-
-### Week 2
-
-
 Lecture 3 
   : [Computational Models; Optimization Models, Simulation Models and Statistical Models](#)
     : [Slides](#){: .label .label-red }
