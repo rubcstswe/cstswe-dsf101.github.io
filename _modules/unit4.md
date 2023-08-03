@@ -2,7 +2,7 @@
 title: UNIT IV Introduction to Data Sampling & Standard Error
 ---
 
-### Week 9
+### Week 5
 
 Lecture 18
 : [Probability Sampling](#)
@@ -11,9 +11,6 @@ Lecture 18
 Lecture 19
 : [Stratified sampling](#)
   : [Slides](#){: .label .label-red }
-
-
-### Week 10
 
 Lecture 20
 : [Digression and uncertainty, standard error of mean](#)
