@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: DSF101
 description: Introduction To Computational Thinking and Data Science
-baseurl: ~ # the subpath of your site, e.g. /blog
-url: 'https://DFS101@rubcstswe.edu.bt' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'https://cstswe-dsf101.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
